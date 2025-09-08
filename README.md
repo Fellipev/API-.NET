@@ -5,8 +5,7 @@ O objetivo é contemplar recursos entre as entidades relacionais **Cliente**, **
 
 -  Mapear relacionamentos 1:1 entre as entidades  
 -  Inserir cada recurso de forma independente  
--  Vincular e desvincular recursos via rotas específicas  
--  Disponibilizar **JSONs de entrada e saída** claros em cada requisição
+-  Vincular e desvincular recursos via rotas específicas
 
 ---
 
